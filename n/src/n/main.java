@@ -6,7 +6,6 @@ public class main {
 		System.out.println("hallo");
 		System.out.println("gg");
 		System.out.println("test123");
-		hh
 	}
 
 }
